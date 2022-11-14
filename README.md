@@ -6,7 +6,7 @@
 Building a simple app in Scala according to The Standard
 
 
-here's a video introduction to Golang according to The Standard:
+here's a video introduction to Scala according to The Standard:
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/IjUxOvJK-Ho/0.jpg)](https://www.youtube.com/watch?v=IjUxOvJK-Ho)
 
